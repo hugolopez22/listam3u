@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1, ESPN DEPORTES
+https://live.televisiongratishd.com/tvplus2022/15_.m3u8?token=m-hLny_f85ME9KNO2P5w6g&expires=1612297278&ip=177.246.164.21
+#EXTINF:-1, ESPN + (Más)
+https://live.televisiongratishd.com/tvplus2022/16_.m3u8?token=UhfwLNCgLybxBi_ODew7IA&expires=1612294104&ip=177.246.164.21
+#EXTINF:-1, ESPN 
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/2at3sx48x1b.m3u8?s=x9DcAUbe_hu9nB6BxJyp6A&e=1612312384
+#EXTINF:-1, ESPN 2
+https://live.televisiongratishd.com/tvplus2022/18_.m3u8?token=AAISVSAxsP1HCOt4EH9_tg&expires=1612294640&ip=177.246.164.21
+#EXTINF:-1, ESPN 3
+https://live.televisiongratishd.com/tvplus2022/19_.m3u8?token=E4jY1R2KX2cq5a6DDMLfcQ&expires=1612294854&ip=177.246.164.21
+#EXTINF:-1, DIRECTV SPORTS
+https://live.televisiongratishd.com/tvplus2022/19_.m3u8?token=E4jY1R2KX2cq5a6DDMLfcQ&expires=1612294854&ip=177.246.164.21
+#EXTINF:-1, DIRECTV SPORTS 2
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/gjqp6.m3u8?s=TLQtqAor1vI2xzgBhs4JRw&e=1612313290
+#EXTINF:-1, DIRECTV SPORT PLUS 
+https://live.televisiongratishd.com/tvplus2022/22_.m3u8?token=79fLMGG0xxHPwMqaIf_MPA&expires=1612296042&ip=177.246.164.21
+#EXTINF:-1, BEIN LA LIGA 
+https://live.televisiongratishd.com/tvplus2022/23_.m3u8?token=SRsiYJfNyAbMMjL_4jV47w&expires=1612296143&ip=177.246.164.21
+#EXTINF:-1, FOX SPORTS MEXICO
+https://live.televisiongratishd.com/tvplus2022/24_.m3u8?token=LMlvJ8olbFPVDhjBcDdhgQ&expires=1612296204&ip=177.246.164.21
+#EXTINF:-1, FOX SPORTS 2 MEXICO
+https://live.televisiongratishd.com/tvplus2022/25_.m3u8?token=5UEkB4gUwcwwwIMLyaDwjQ&expires=1612296260&ip=177.246.164.21
+#EXTINF:-1, FOX SPORTS 3 MEXICO
+https://live.televisiongratishd.com/tvplus2022/26_.m3u8?token=2AVnR9QehJUXE0mKw3vBfA&expires=1612296323&ip=177.246.164.21
+#EXTINF:-1, ESPN MEXICO
+https://live.televisiongratishd.com/tvplus2022/27_.m3u8?token=boXod9TmwKLpezTJdwGI5w&expires=1612296394&ip=177.246.164.21
+#EXTINF:-1, ESPN 2 MEXICO
+https://live.televisiongratishd.com/tvplus2022/28_.m3u8?token=NMltwNCUWeTELixR9L3Bpg&expires=1612296455&ip=177.246.164.21
+#EXTINF:-1, ESPN 3 MEXICO
+https://live.televisiongratishd.com/tvplus2022/29_.m3u8?token=U1sELoLE7I3VUYVV5watTA&expires=1612296528&ip=177.246.164.21
+#EXTINF:-1, GOL TV
+https://live.televisiongratishd.com/tvplus2022/7_.m3u8?token=2xgFSDjAKN_k9_wt2-JC2g&expires=1612296606&ip=177.246.164.21
+#EXTINF:-1, TNT SPORTS 
+https://live.televisiongratishd.com/tvplus2022/9_.m3u8?token=OHv6vZOKziOkfIHqqeGwaQ&expires=1612296664&ip=177.246.164.21
+#EXTINF:-1, FOX SPORTS PREMIUM
+https://live.televisiongratishd.com/tvplus2022/10_.m3u8?token=BpghnuL4te1KmvjDUhSFFw&expires=1612296720&ip=177.246.164.21
+#EXTINF:-1, TYC SPORTS
+https://live.televisiongratishd.com/tvplus2022/11_.m3u8?token=5Ew_dF34p9J61Bl7Cby7qA&expires=1612296769&ip=177.246.164.21
+#EXTINF:-1, FOX SPORTS
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/sxqgz5ml87d.m3u8?s=ud1TJKO1bHaN2eiIYfEEUg&e=1612314877
+#EXTINF:-1,  FOX SPORTS 2 
+https://live.televisiongratishd.com/tvplus2022/13_.m3u8?token=8De7F70YV3caC1wKGvXsbw&expires=1612296934&ip=177.246.164.21
+#EXTINF:-1, FOX SPORTS 3
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/enhoxev277nz.m3u8?s=h8jV-OWxZ-3Px1SKC3KQNw&e=1612315078
+#EXTINF:-1, HBO
+https://live.televisiongratishd.com/tvplus2022/31_.m3u8?token=JsPGbPUGAF0DOFSymqqtIg&expires=1612297877&ip=177.246.164.21
+#EXTINF:-1, HBO 2
+https://live.televisiongratishd.com/tvplus2022/32_.m3u8?token=0LDq0gduAlONsFaeIU2q0w&expires=1612297920&ip=177.246.164.21
+#EXTINF:-1, FOX PREMIUM ACTION
+https://live.televisiongratishd.com/tvplus2022/138_.m3u8?token=HujHGBN67pSEru00x7wHow&expires=1612297975&ip=177.246.164.21
+#EXTINF:-1, FOX PREMIUM SERIES
+https://live.televisiongratishd.com/tvplus2022/38_.m3u8?token=RcRFoWs5hK3uVIRwnThK3w&expires=1612298919&ip=177.246.164.21
+#EXTINF:-1, SPACE
+https://live.televisiongratishd.com/tvplus2022/39_.m3u8?token=fLD-eLxFQ0ajTTv-A5VbOQ&expires=1612299076&ip=177.246.164.21
+#EXTINF:-1, WARNER BROS
+https://live.televisiongratishd.com/tvplus2022/40_.m3u8?token=47yXSApOUy54DsaNkP2r4Q&expires=1612299252&ip=177.246.164.21
+#EXTINF:-1, TNT 
+https://live.televisiongratishd.com/tvplus2022/41_.m3u8?token=Mx6ExdE1IFDUo3trhEXGWQ&expires=1612299320&ip=177.246.164.21
+#EXTINF:-1, FOX
+https://live.televisiongratishd.com/tvplus2022/42_.m3u8?token=IHYI5IFGeB7KBIZsOnEj9w&expires=1612299373&ip=177.246.164.21
+#EXTINF:-1, CINEMAX
+https://live.televisiongratishd.com/tvplus2022/43_.m3u8?token=85KNbJY7Gi4C5Zs5l_zdog&expires=1612299406&ip=177.246.164.21
+#EXTINF:-1, CINECANAL
+https://live.televisiongratishd.com/tvplus2022/44_.m3u8?token=wc0sRQgpjCdYVgywqn7ePg&expires=1612299460&ip=177.246.164.21
